@@ -1,0 +1,14 @@
+{
+  "name": "parser-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parser.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^1.1.1",
+    "json2xls": "^0.1.2",
+    "puppeteer": "^1.2.0"
+  }
+}
